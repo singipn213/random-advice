@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/random-advice/static/css/main.ce9ba900.css",
+    "main.js": "/random-advice/static/js/main.c2ff88ef.js",
+    "static/media/city.jpg": "/random-advice/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/random-advice/index.html",
+    "main.ce9ba900.css.map": "/random-advice/static/css/main.ce9ba900.css.map",
+    "main.c2ff88ef.js.map": "/random-advice/static/js/main.c2ff88ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce9ba900.css",
+    "static/js/main.c2ff88ef.js"
+  ]
+}
